@@ -1,0 +1,16 @@
+# directories to be ignored
+__pycache__
+*/__pycache__
+.vscode
+
+# file types to be ignored
+*.png
+*.pdb
+*.pqr
+*.pdf
+*.log
+*.sh
+*.cube
+*.mol2
+*.pyc
+*.smi
